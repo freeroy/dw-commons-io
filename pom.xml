@@ -11,7 +11,7 @@
 	<artifactId>dw-commons-io</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-io</name>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<description>常见IO操作函数包，参考apache commons lang</description>
 
 	<dependencies>
